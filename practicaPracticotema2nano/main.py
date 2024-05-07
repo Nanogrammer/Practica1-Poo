@@ -1,3 +1,7 @@
+#@Autor Arnaldo Videla
+
+
+
 from moduloGestorMovimientos import GestorMovimientos
 from moduloGestorClientes import GestorCliente
 import Menu
